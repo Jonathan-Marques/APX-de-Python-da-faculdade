@@ -1,2 +1,2 @@
 # APX de Python da faculdade
- minhas proovas de python da diciplina de fundamentos da programação
+ minhas provas de python da diciplina de fundamentos da programação
